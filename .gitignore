@@ -1,0 +1,90 @@
+# W3TC- W3 Total Cache
+w3tc-config/
+cache/
+mobile/cache
+wp-content/cache
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+wp-content/wp-rocket-config/
+wp-content/plugins/wp-rocket/cache.json
+wp-content/uploads/
+wp-content/uploads/*
+# Redirection plugin
+wp-content/plugins/v-catena-redirections/admin/data/*
+wp-config.php
+# Netbeans
+/nbproject/private/
+nbproject
+
+# visual studio code
+.vscode/*
+
+# WebStorm / PhpStorm
+.idea/*
+.idea
+
+# Env
+.htaccess
+.gitkeep
+nginx.conf
+wp-config.php
+*.css.map
+*.js.map
+node_modules
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Additional
+*.log
+*.sql
+*.sh
+sitemap_index.xml
+sitemap.xml
+sitemap.xml.gz
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+readme.html
+license.txt
+#wp-content/upgrade/
+#wp-content/plugins/index.php
+#wp-content/index.php
+#wp-includes
+#wp-admin
+#wp-*.php
+#xmlrpc.php
+
+# PWA plugin
+pwa-amp-manifest-1.json
+pwa-amp-sw-1.html
+pwa-amp-sw-1.js
+pwa-manifest-1.json
+pwa-register-sw-1.js
+pwa-sw-1.js
